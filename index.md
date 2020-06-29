@@ -7,3 +7,5 @@ This is a character description. The character lives in the USA and is in his mi
 * clever
 * nice
 * helpful
+
+> This is a quote.
